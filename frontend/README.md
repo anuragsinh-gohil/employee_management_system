@@ -1,4 +1,4 @@
-# Employee Management System
+# Employee Management System 
 
 An Employee Management System (EMS) built using **Java Spring Boot** (Backend) and **Angular** (Frontend). This application allows you to manage employees, view employee details, and perform CRUD (Create, Read, Update, Delete) operations.
 
