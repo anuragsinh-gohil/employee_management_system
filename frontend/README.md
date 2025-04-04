@@ -18,7 +18,7 @@ An Employee Management System (EMS) built using **Java Spring Boot** (Backend) a
 
 - **Backend**: Java, Spring Boot, REST API
 - **Frontend**: Angular, TypeScript, HTML, CSS
-- **Database**: MySQL
+- **Database**: SQL Server
 - **Build Tools**: Maven, Node.js, NPM
 - **Version Control**: Git, GitHub
 
